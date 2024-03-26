@@ -1,5 +1,5 @@
 ---
-givenName: yash
+givenName: Yash
 familyName: Khiraiya
 title: Devops engineer
 location: Pune
